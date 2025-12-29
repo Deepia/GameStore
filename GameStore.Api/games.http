@@ -1,0 +1,28 @@
+GET http://localhost:5003/games
+###
+GET http://localhost:5003/games/2
+
+###
+POST http://localhost:5003/games
+Content-Type: application/json
+
+{
+    "Name":"",
+    "Genre": "Fighting",
+    "Price": 21.89,
+    "ReleaseDate": "2023-12-11"
+}
+
+###
+PUT http://localhost:5003/games/10
+Content-Type: application/json
+
+{
+    "Name":"Pop Corn-1",
+    "Genre": "Fighting",
+    "Price": 21.89,
+    "ReleaseDate": "2023-12-11"
+}
+
+###
+DELETE  http://localhost:5003/games/1

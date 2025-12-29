@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET API (Permanent Fix)",
+      "type": "coreclr",
+      "request": "launch",
+
+      "program": "${workspaceFolder}/gamestore.api/bin/Debug/net10.0/GameStore.Api.dll",
+      "cwd": "${workspaceFolder}/gamestore.api",
+
+      "preLaunchTask": "build",
+      "stopAtEntry": false,
+
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+      }
+    }
+  ]
+}
