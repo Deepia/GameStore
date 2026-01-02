@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eo8kfgYRJsg=",
+  "dgSpecHash": "Wtv+O6b5/6M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deepak\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",

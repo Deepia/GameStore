@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj": {}
+    "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj": {
+    "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\Deepak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.api\\obj\\",
+        "outputPath": "C:\\Users\\Deepak\\Desktop\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Deepak\\AppData\\Roaming\\NuGet\\NuGet.Config"
